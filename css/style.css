@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(6, 0, 41);
+    color: yellow;
+    text-transform:uppercase;
+}
+.container-sm{
+    border: 3px black solid;
+    border-radius: 10px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 25px;
+    background-color: rgb(8, 0, 68);
+}
+.dark{
+    background-color: darkblue;
+    max-width: 75%;
+    text-align: center;
+    margin: 5px;
+}
+h1{
+    text-align: center;
+}
