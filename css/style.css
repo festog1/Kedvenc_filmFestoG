@@ -1,5 +1,8 @@
 body{
-    background-color: rgb(6, 0, 41);
+    background-image : url(../img/deathstar.jpeg);
+    
+    background-position:center;
+    background-size: cover;
     color: yellow;
     text-transform:uppercase;
 }
@@ -9,14 +12,42 @@ body{
     padding: 10px;
     margin: auto;
     margin-top: 25px;
-    background-color: rgb(8, 0, 68);
+    background-color: rgba(8, 0, 68, 0.404);
 }
 .dark{
-    background-color: darkblue;
+    margin: auto;
+    background-color: rgba(0, 0, 139, 0.753);
+    border-radius: 10px;
     max-width: 75%;
     text-align: center;
     margin: 5px;
 }
 h1{
     text-align: center;
+    font-family: 'Star Wars';
+}
+#elsop{
+    text-align: center;
+}
+table{
+    max-width: 80%;
+    margin: auto;
+}
+#infot{
+    background-image: url(../img/republicrepeat.png);
+    margin: auto;
+    background-color: aliceblue;
+    max-width: 100%;
+    border-radius: 10px;
+    
+}
+#gomb{
+    margin: auto;
+}
+li{
+    list-style-image: url(../img/favicon.png);
+    margin-left: 25px;
+}
+hr{
+    width: 60%;
 }
