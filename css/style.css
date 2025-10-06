@@ -52,6 +52,6 @@ hr{
     width: 60%;
 }
 iframe {
-  max-width: fit-content;
+  width: fit-content;
   height: auto;
 }
