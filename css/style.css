@@ -4,7 +4,7 @@ body{
     background-position:center;
     background-size: cover;
     color: yellow;
-    text-transform:uppercase;
+    text-transform:capitalize;
 }
 .container-sm{
     border: 3px black solid;
